@@ -1,4 +1,5 @@
 # app_08
 
 123
-hello
+你好
+aaa
