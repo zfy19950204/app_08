@@ -1,6 +1,7 @@
 import allure
 import pytest
 
+
 class Test_02:
 
     @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
@@ -13,3 +14,4 @@ class Test_02:
     def test_add_png(self):
         with open("\\Users\\deen\\Desktop\\app_po_02\\scripts\\abc.PNG", "rb") as f:
             allure.attach("截图", f.read(), allure.attach_type.PNG)
+            assert True
