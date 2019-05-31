@@ -1,3 +1,4 @@
 [
-  "scripts/test_02.py::Test_002::()::test_add_png"
+  "scripts/test_02.py::Test_002::()::test_001",
+  "scripts/test_02.py::Test_002::()::test_002"
 ]
